@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   #re-enable test files when they're actually used.  In the mean time, lets leave them out to reduce our gem size.
   #spec.test_files    = Dir['features/**/*', 'spec/**/*', 'gemfiles/**/*'] + %w{config/cucumber.yml .rspec tasks/cucumber.rake}
 
-  spec.homepage = "http://github.com/paulca/configurable_engine"
+  spec.homepage = "http://github.com/Blaked84/configurable_engine"
   spec.licenses = ["MIT"]
   spec.require_paths = ["lib"]
   spec.rubygems_version = "2.0.3"
