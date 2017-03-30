@@ -1,3 +1,3 @@
 module ConfigurableEngine
-  VERSION = '0.4.8.2'
+  VERSION = '0.4.9.1'
 end
